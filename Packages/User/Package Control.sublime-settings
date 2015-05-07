@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Colorsublime",
+		"DashDoc",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Package Control",
+		"Quick File Creator",
+		"rsub",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"Theme - Soda"
+	]
+}

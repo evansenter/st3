@@ -1,0 +1,15 @@
+[
+	{ "keys": ["super+alt+n"], "command": "quick_create_file" },
+	{ "keys": ["super+ctrl+alt+n"], "command": "quick_create_directory" },
+	{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+alt+]"], "command": "alignment" },
+	{ "keys": ["super+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["super+shift+r"],  "command": "reindent" },
+	{ "keys": ["super+ctrl+r"],  "command": "reveal_in_side_bar" },
+	{ "keys": ["super+x"], "command": "clipboard_manager_cut" },
+	{ "keys": ["super+c"], "command": "clipboard_manager_copy" },
+	{ "keys": ["super+v"], "command": "clipboard_manager_paste", "args": { "indent": true } },
+	{ "keys": ["super+ctrl+v"], "command": "clipboard_manager_paste", "args": { "indent": false } },
+	{ "keys": ["super+shift+v"], "command": "clipboard_manager_previous_and_paste" },
+	{ "keys": ["super+alt+ctrl+v"], "command": "clipboard_manager_choose_and_paste" },
+]
