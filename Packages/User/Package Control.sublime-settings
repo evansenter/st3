@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,6 +9,7 @@
 		"Alignment",
 		"BracketHighlighter",
 		"Clipboard Manager",
+		"CMake",
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
@@ -16,15 +18,17 @@
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
 		"Jade",
+		"LaTeXTools",
+		"Material Theme",
 		"Package Control",
 		"Quick File Creator",
 		"rsub",
+		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeLinter-ruby",
-		"Theme - Soda"
+		"SublimeLinter-ruby"
 	]
 }
