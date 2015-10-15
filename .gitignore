@@ -1,6 +1,4 @@
-*
-!.gitignore
-!Packages
-!Packages/*
-!"Installed Packages"
-!"Installed Packages"/*
+Backup
+Cache
+Index
+Local
