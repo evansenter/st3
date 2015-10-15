@@ -1,0 +1,6 @@
+*
+!.gitignore
+!Packages
+!Packages/*
+!"Installed Packages"
+!"Installed Packages"/*
