@@ -1,4 +1,3 @@
 *
 !*/
-/Packages/User/*
-/Packages/User/**
+!/Packages/User/**
