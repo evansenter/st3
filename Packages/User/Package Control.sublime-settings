@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"DashDoc"
 	],
 	"installed_packages":
 	[
@@ -21,6 +20,7 @@
 		"Jade",
 		"LaTeXTools",
 		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"Protocol Buffer Syntax",
 		"Quick File Creator",
