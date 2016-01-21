@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"DashDoc"
 	],
 	"installed_packages":
 	[
@@ -15,6 +16,16 @@
 		"DocBlockr",
 		"Git",
 		"GitGutter",
+		"google-C++",
+		"google-citc-gutter",
+		"google-cs",
+		"google-format",
+		"google-g4",
+		"google-g4-lint-free",
+		"google-git5",
+		"google-syntax",
+		"GoogleBlaze",
+		"GoogleG3",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
 		"Jade",
@@ -32,5 +43,9 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby"
+	],
+	"repositories":
+	[
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
 	]
 }
