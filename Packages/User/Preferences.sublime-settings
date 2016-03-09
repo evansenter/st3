@@ -50,8 +50,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Go"
+		"DashDoc",
+		"Go",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
