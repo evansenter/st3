@@ -50,6 +50,10 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+<<<<<<< HEAD
+=======
+		"DashDoc",
+>>>>>>> 1ae0179a35963e72519f7c63f4c5d89df2e39c2a
 		"Go",
 		"Vintage"
 	],
