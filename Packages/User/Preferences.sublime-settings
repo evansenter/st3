@@ -50,8 +50,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Go"
+		"Go",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

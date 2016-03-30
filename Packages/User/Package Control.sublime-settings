@@ -1,5 +1,10 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -7,6 +12,7 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"BeautifyRuby",
 		"BracketHighlighter",
 		"Clipboard Manager",
 		"CMake",
