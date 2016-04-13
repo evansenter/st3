@@ -7,19 +7,18 @@
 	],
 	"in_process_packages":
 	[
-		"DashDoc"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
-		"BeautifyRuby",
 		"BracketHighlighter",
 		"Clipboard Manager",
 		"CMake",
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"google-C++",
@@ -48,7 +47,9 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeLinter-ruby"
+		"SublimeLinter-rubocop",
+		"SyncedSideBar",
+		"Trimmer"
 	],
 	"repositories":
 	[
