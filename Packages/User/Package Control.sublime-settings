@@ -1,8 +1,12 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
+	],
 	"in_process_packages":
 	[
-		"DashDoc"
 	],
 	"installed_packages":
 	[
@@ -14,6 +18,7 @@
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"google-C++",
@@ -42,7 +47,9 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeLinter-ruby"
+		"SublimeLinter-rubocop",
+		"SyncedSideBar",
+		"Trimmer"
 	],
 	"repositories":
 	[

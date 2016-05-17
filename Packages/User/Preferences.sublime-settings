@@ -50,7 +50,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"DashDoc",
 		"Go",
 		"Vintage"
 	],
@@ -62,6 +61,7 @@
 	"index_files": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"material_theme_compact_panel": true,
 	"material_theme_disable_tree_indicator": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
