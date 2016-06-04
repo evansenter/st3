@@ -5,9 +5,6 @@
 		"https://packagecontrol.io/channel_v3.json",
 		"https://sublime-text-plugins.corp.google.com/google-packages.json"
 	],
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -21,16 +18,6 @@
 		"FileDiffs",
 		"Git",
 		"GitGutter",
-		"google-C++",
-		"google-citc-gutter",
-		"google-cs",
-		"google-format",
-		"google-g4",
-		"google-g4-lint-free",
-		"google-git5",
-		"google-syntax",
-		"GoogleBlaze",
-		"GoogleG3",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
 		"Jade",
