@@ -39,7 +39,7 @@
 		"npm-debug.log",
 		"workspace"
 	],
-	"font_face": "Droid Sans Mono",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"gray_antialias"
