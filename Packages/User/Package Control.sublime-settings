@@ -7,6 +7,8 @@
 	],
 	"in_process_packages":
 	[
+		"DashDoc",
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -21,6 +23,7 @@
 		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"google-Blaze",
 		"google-C++",
 		"google-citc-gutter",
 		"google-cs",
@@ -29,7 +32,6 @@
 		"google-g4-lint-free",
 		"google-git5",
 		"google-syntax",
-		"GoogleBlaze",
 		"GoogleG3",
 		"Gutter Color",
 		"HTML-CSS-JS Prettify",
