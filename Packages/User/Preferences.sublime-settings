@@ -24,7 +24,6 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorsublime - Themes/Tomorrow_Night.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -74,7 +73,7 @@
 	"remember_open_files": false,
 	"save_on_focus_lost": false,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true
