@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Colorsublime",
+		"DashDoc",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"google-Blaze",
+		"google-citc-gutter",
+		"google-cs",
+		"google-format",
+		"google-g4",
+		"google-g4-lint-free",
+		"google-git5",
+		"google-syntax",
+		"GoogleG3",
+		"Gutter Color",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Protocol Buffer Syntax",
+		"Quick File Creator",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
+	]
+}
