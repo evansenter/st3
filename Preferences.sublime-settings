@@ -6,7 +6,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": false,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorsublime - Themes/Flatland_Monokai.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Tomorrow_Night.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
@@ -37,6 +37,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"material_theme_accent_scrollbars": true,
+	"material_theme_appbar_charcoal": true,
 	"material_theme_arrow_folders": true,
 	"material_theme_big_fileicons": false,
 	"material_theme_bold_tab": false,
