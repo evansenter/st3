@@ -6,20 +6,13 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": false,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Flatland_Monokai.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"node_modules",
-		"covreporter",
-		"lib/public/vendor",
-		"npm-debug.log",
-		"workspace"
+		".git"
 	],
 	"font_face": "Fira Code",
 	"font_options":
